@@ -8,7 +8,7 @@ The message	that needs to be represented is	passed	to the Arduino	using the Seri
 
 ## Morse Code:
 
-![Morse Code](Lab1/Morse_code.png)
+![Morse_code](https://github.com/MuhammedKhamis/Micro-processor-labs/blob/master/Lab1/Morse_code.png)
 
 
 ## International Morse code five elements representation:
