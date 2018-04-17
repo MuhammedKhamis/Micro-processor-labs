@@ -1,7 +1,7 @@
 # Lab 2
 
 
-![Traffic Light](Lab2/traffic_light.png)
+![Traffic Light](https://github.com/MuhammedKhamis/Micro-processor-labs/blob/master/Lab2/traffic_light.png)
 
 * Pedestrian traffic lights allow any person who wishes to cross the road to press a button which triggers an alert for the trafic light system to change light into “green” and allow him to cross.
 
